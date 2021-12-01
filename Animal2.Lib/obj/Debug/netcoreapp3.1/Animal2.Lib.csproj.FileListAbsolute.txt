@@ -1,0 +1,13 @@
+/Users/haozhang/RiderProjects/Animals/Animal2.Lib/bin/Debug/netcoreapp3.1/Animal2.Lib.deps.json
+/Users/haozhang/RiderProjects/Animals/Animal2.Lib/bin/Debug/netcoreapp3.1/Animal2.Lib.dll
+/Users/haozhang/RiderProjects/Animals/Animal2.Lib/bin/Debug/netcoreapp3.1/Animal2.Lib.pdb
+/Users/haozhang/RiderProjects/Animals/Animal2.Lib/obj/Debug/netcoreapp3.1/Animal2.Lib.csproj.AssemblyReference.cache
+/Users/haozhang/RiderProjects/Animals/Animal2.Lib/obj/Debug/netcoreapp3.1/Animal2.Lib.GeneratedMSBuildEditorConfig.editorconfig
+/Users/haozhang/RiderProjects/Animals/Animal2.Lib/obj/Debug/netcoreapp3.1/Animal2.Lib.AssemblyInfoInputs.cache
+/Users/haozhang/RiderProjects/Animals/Animal2.Lib/obj/Debug/netcoreapp3.1/Animal2.Lib.AssemblyInfo.cs
+/Users/haozhang/RiderProjects/Animals/Animal2.Lib/obj/Debug/netcoreapp3.1/Animal2.Lib.csproj.CoreCompileInputs.cache
+/Users/haozhang/RiderProjects/Animals/Animal2.Lib/obj/Debug/netcoreapp3.1/Animal2.Lib.dll
+/Users/haozhang/RiderProjects/Animals/Animal2.Lib/obj/Debug/netcoreapp3.1/Animal2.Lib.pdb
+/Users/haozhang/RiderProjects/Animals/Animal2.Lib/bin/Debug/netcoreapp3.1/BabyStroller.SDK.dll
+/Users/haozhang/RiderProjects/Animals/Animal2.Lib/bin/Debug/netcoreapp3.1/BabyStroller.SDK.pdb
+/Users/haozhang/RiderProjects/Animals/Animal2.Lib/obj/Debug/netcoreapp3.1/Animal2.Lib.csproj.CopyComplete

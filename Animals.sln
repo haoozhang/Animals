@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Animal1.Lib", "Animal1.Lib\Animal1.Lib.csproj", "{A724A8EE-2C80-4365-9B2E-A5F8D2EAA5B5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Animal2.Lib", "Animal2.Lib\Animal2.Lib.csproj", "{2891BAAF-6575-4932-BA6D-E6FDA3F66AA6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A724A8EE-2C80-4365-9B2E-A5F8D2EAA5B5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A724A8EE-2C80-4365-9B2E-A5F8D2EAA5B5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A724A8EE-2C80-4365-9B2E-A5F8D2EAA5B5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A724A8EE-2C80-4365-9B2E-A5F8D2EAA5B5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2891BAAF-6575-4932-BA6D-E6FDA3F66AA6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2891BAAF-6575-4932-BA6D-E6FDA3F66AA6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2891BAAF-6575-4932-BA6D-E6FDA3F66AA6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2891BAAF-6575-4932-BA6D-E6FDA3F66AA6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
